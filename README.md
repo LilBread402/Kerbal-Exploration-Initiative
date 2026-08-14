@@ -3,4 +3,6 @@ Part mod for Kerbal Space Program aimed at adding vehicles from the Strategic De
 
 Requires B9 partswitch and Animated Decouplers to work
 
+Waterfall is recommended, and has support bundled in.
+
 All Rights Reserved.
